@@ -437,6 +437,7 @@
 				77F514F016A8FC6000ADF0FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		77F514F116A8FC6000ADF0FC /* Build configuration list for PBXNativeTarget "testTests" */ = {
 			isa = XCConfigurationList;
@@ -445,6 +446,7 @@
 				77F514F316A8FC6000ADF0FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
