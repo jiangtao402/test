@@ -30,6 +30,8 @@
     UIButton* button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
     button.titleLabel.text = @"test";
     
+    NSLog(@" modify !");
+    
 }
 
 - (void)didReceiveMemoryWarning
