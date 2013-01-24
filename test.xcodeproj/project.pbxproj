@@ -21,6 +21,7 @@
 		77F514E016A8FC6000ADF0FC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77F514C116A8FC5F00ADF0FC /* Foundation.framework */; };
 		77F514E816A8FC6000ADF0FC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 77F514E616A8FC6000ADF0FC /* InfoPlist.strings */; };
 		77F514EB16A8FC6000ADF0FC /* testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F514EA16A8FC6000ADF0FC /* testTests.m */; };
+		77F514F616A90D0500ADF0FC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F514F516A90D0500ADF0FC /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		77F514E716A8FC6000ADF0FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		77F514E916A8FC6000ADF0FC /* testTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testTests.h; sourceTree = "<group>"; };
 		77F514EA16A8FC6000ADF0FC /* testTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testTests.m; sourceTree = "<group>"; };
+		77F514F416A90D0500ADF0FC /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		77F514F516A90D0500ADF0FC /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,8 @@
 			children = (
 				77F514CE16A8FC5F00ADF0FC /* AppDelegate.h */,
 				77F514CF16A8FC5F00ADF0FC /* AppDelegate.m */,
+				77F514F416A90D0500ADF0FC /* ViewController.h */,
+				77F514F516A90D0500ADF0FC /* ViewController.m */,
 				77F514C616A8FC5F00ADF0FC /* Supporting Files */,
 			);
 			path = test;
@@ -263,6 +268,7 @@
 			files = (
 				77F514CC16A8FC5F00ADF0FC /* main.m in Sources */,
 				77F514D016A8FC5F00ADF0FC /* AppDelegate.m in Sources */,
+				77F514F616A90D0500ADF0FC /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
